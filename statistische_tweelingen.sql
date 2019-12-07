@@ -1,6 +1,6 @@
 CREATE TABLE IF NOT EXISTS `persoon` (
 
-  `id` int(11) NOT NULL AUTO_INCtweelingREMENT,
+  `id` int(11) NOT NULL AUTO_INCREMENT,
 
   `leeftijd` tinyint(4) DEFAULT NULL,
 
